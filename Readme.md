@@ -34,14 +34,14 @@ MYSQL
 - spa_main_service:add_location().
 
 
-- use another terminal for sending a request manually(for testing purpose).
-      curl -i -d 'tag_id=12345asdf&tag_reader_id=121230000' http://localhost:8001/wifi
-      HTTP/1.1 200 OK
-      connection: keep-alive
-      server: Cowboy
-      date: Sat, 09 Jan 2016 08:50:15 GMT
-      content-length: 17
-      content-type: text/plain
+#### use another terminal for sending a request manually(for testing purpose).
+            curl -i -d 'tag_id=12345asdf&tag_reader_id=121230000' http://localhost:8001/wifi
+            HTTP/1.1 200 OK
+            connection: keep-alive
+            server: Cowboy
+            date: Sat, 09 Jan 2016 08:50:15 GMT
+            content-length: 17
+            content-type: text/plain
 
 
 
