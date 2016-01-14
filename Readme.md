@@ -4,11 +4,11 @@ This application is a stand alone web server built on Erlang/OTP programming lan
 
 ####Libraries used:
 
-Erlang OTP (for code development)
-Cowboy Webserver
-ODBC
-Mnesia
-MYSQL
+- Erlang OTP (for code development)
+- Cowboy Webserver
+- ODBC
+- Mnesia
+- MYSQL
 
 
 #####Install the Erlang from the official site before running this applciation.
