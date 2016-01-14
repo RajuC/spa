@@ -1,0 +1,5 @@
+-name spa@127.0.0.1
+-setcookie spa
+-heart
+-mnesia dir '"/home/raju/Desktop/spa_updated/spa/mnesia_db"'
+
